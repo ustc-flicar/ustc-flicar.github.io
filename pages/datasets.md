@@ -37,12 +37,11 @@ permalink: "/datasets/"
       </div>
       <div class="large-6 medium-6 small-12 columns">
          <a href="./hf002">
-            <h4>2022/06/08-HF002</h4>
+            <h4>HF002</h4>
          </a>
-         Time: 16:13:28 GMT +8<br/>
-         Size: 67.2 GB<br/>
-         <span class="icon-price-tag pr10">alternate-route</span>
-         <span class="icon-price-tag pr10">clouds</span>
+         Time: 2022/06/08-15:48 GMT +8<br/>
+         Size: 75.7 GB<br/>
+         <span class="icon-price-tag pr10">aerial</span>
          <span class="icon-price-tag pr10">sun</span>
       </div>
 </div>
@@ -55,13 +54,13 @@ permalink: "/datasets/"
       </div>
       <div class="large-6 medium-6 small-12 columns">
          <a href="./hf003">
-            <h4>2022/06/08-HF003</h4>
+            <h4>HF003</h4>
          </a>
-         Time: 16:13:28 GMT +8<br/>
-         Size: 67.2 GB<br/>
-         <span class="icon-price-tag pr10">alternate-route</span>
-         <span class="icon-price-tag pr10">clouds</span>
+         Time: 2022/06/08-16:13 GMT +8<br/>
+         Size: 83.2 GB<br/>
+         <span class="icon-price-tag pr10">aerial</span>
          <span class="icon-price-tag pr10">sun</span>
+         <span class="icon-price-tag pr10">rotation</span>
       </div>
 </div>
 
@@ -73,11 +72,11 @@ permalink: "/datasets/"
       </div>
       <div class="large-6 medium-6 small-12 columns">
          <a href="./hf004">
-            <h4>2022/06/08-HF004</h4>
+            <h4>HF004</h4>
          </a>
-         Time: 16:13:28 GMT +8<br/>
-         Size: 65.7 GB<br/>
-         <span class="icon-price-tag pr10">alternate-route</span>
+         Time: 2022/06/08-16:30 GMT +8<br/>
+         Size: 82.0 GB<br/>
+         <span class="icon-price-tag pr10">aerial</span>
          <span class="icon-price-tag pr10">clouds</span>
          <span class="icon-price-tag pr10">sun</span>
       </div>
@@ -91,12 +90,11 @@ permalink: "/datasets/"
       </div>
       <div class="large-6 medium-6 small-12 columns">
          <a href="./HF005">
-            <h4>2022/06/08-HF005</h4>
+            <h4>HF005</h4>
          </a>
-         Time: 16:13:28 GMT +8<br/>
-         Size: 67.2 GB<br/>
-         <span class="icon-price-tag pr10">alternate-route</span>
-         <span class="icon-price-tag pr10">clouds</span>
+         Time: 2022/06/08-17:20 GMT +8<br/>
+         Size: 90.3 GB<br/>
+         <span class="icon-price-tag pr10">aerial</span>
          <span class="icon-price-tag pr10">sun</span>
       </div>
 </div>
@@ -172,3 +170,7 @@ permalink: "/datasets/"
          <span class="icon-price-tag pr10">sun</span>
       </div>
 </div>
+
+# ...
+
+### Stay tuned for more data!

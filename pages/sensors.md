@@ -284,7 +284,7 @@ POINT_CLOUD_REGISTER_POINT_STRUCT(PointXYZIRT,
 
 ## MEMS Lidar
 We Use DJI LiVOX Avia Lidar in our dataset. It is mounted horizontally on the sensor platform. The main characteristics of LiVOX Avia is that it has a view like camera and the mode of non-repetitive scanning. Pointclouds from LiVOX Lidar scans are uniformly accumulated on the map over time.
-
+<br>
 
 <iframe src="../video/avia_scan.mp4" frameborder="0" allowfullscreen style="width:50%;height:330px;" ></iframe>
 

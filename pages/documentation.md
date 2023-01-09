@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title: "Documentation"
-subheadline: "USTC FlyingCar Dataset"
-teaser: "The documentation is preprint paper of USTC Flyingcar Dataset"
+subheadline: "USTC FLICAR Dataset"
+teaser: "The documentation is preprint paper of USTC FLICAR Dataset"
 permalink: "/documentation/"
 header: no
 ---

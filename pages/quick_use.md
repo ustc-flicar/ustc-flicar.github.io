@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Quick Use"
-subheadline: "USTC FlyingCar Dataset"
+subheadline: "USTC FLICAR Dataset"
 teaser: "We have experimented with some state-of-the-art methods on our dataset.</br> If you are seeking to do the same, please check out the following to get the work done quickly."
 permalink: "/quick_use/"
 header: no
