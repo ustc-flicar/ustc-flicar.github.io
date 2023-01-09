@@ -1,0 +1,84 @@
+- title: HOME
+  url: "/"
+  side: left
+
+- title: Downloads
+  url: "/datasets/"
+  side: left
+
+
+- title:  Acquisition System
+  url: "/system/"
+  side: left
+  dropdown:
+  - title: "Overview"
+    url: "/system/index#overview"
+    #url: "/design/grid/"
+  - title: "Bucket Truck"
+    url: "/system/index#bucket-truck"  #注意 bucket-truck的格式
+  - title: "Multisensors Platform"
+    url: "/system/index#multisensors-platform"
+  - title: "Ground Truth"
+    url: "/system/index#ground-truth"
+
+- title: "Sensors & Usage"
+  url: "/sensors/"
+  side: left
+  dropdown:
+  - title: "Overview"
+    url: "/sensors/index#overview"
+  - title: "IMU"
+    url: "/sensors/index#imu"
+  - title: "mechanical lidar"
+    url: "/sensors/index#mechanical-lidar"
+    #url: "/design/page/"
+  - title: "MEMS Lidar"
+    url: "/sensors/index#mems-lidar"
+  - title: "Stereo Cameras"
+    url: "/sensors/index#stereo-cameras"
+  - title: "mono cameras"
+    url: "/sensors/index#mono-cameras"
+  - title: "Laser Tracker"
+    url: "/sensors/index#laser-tracker"
+#  - title: "Video"
+#    url: "/design/video/"
+#  - title: "Gallery"
+#    url: "/design/gallery/"
+#  - title: "Portfolio"
+#    url: "/design/portfolio/"
+
+- title: "Sensors Sync & Calib"
+  url: "/calibration/"
+  side: left
+  dropdown:
+  - title: "Time Synchronization"
+    url: "/calibration/index#time-synchronization"
+  - title: "IMU"
+    url: "/calibration/index#imu"
+  - title: "Cameras"
+    url: "/calibration/index#cameras"
+  - title: "Camera IMU"
+    url: "/calibration/index#camera-imu"
+  - title: "Stereo Cameras"
+    url: "/calibration/index#imu"
+  - title: "Velodyne-IMU-Cameras"
+    url: "/calibration/index#imu"
+  - title: "LiVOX-IMU-Camera"
+    url: "/calibration/index#imu"
+
+- title: Documentation
+  url: "/documentation/"
+  side: left
+
+- title: "Quick Use"
+  url: "/quick_use/"
+  side: left
+
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Author"
+  url: "/contact/"
+  side: right

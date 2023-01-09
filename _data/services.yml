@@ -1,0 +1,19 @@
+- menu_name: "Link"
+
+- name: "University of Science & Technology of China"
+  url: "http://en.ustc.edu.cn/"
+  #title: "Contact"
+
+- name: "School of Computer Science, USTC"
+  url: "http://en.cs.ustc.edu.cn/"
+  #title: "Contact"
+
+- name: "School of Engineering Science, USTC"
+  url: "https://en.ses.ustc.edu.cn/"
+  #title: "Subscribe to RSS Feed"
+
+- name: "Author:Ziming Wang's Homepage"
+  url: "http://home.ustc.edu.cn/~wm13039278866/index_EN.html"
+  #title: "Subscribe to Atom Feed"
+
+
