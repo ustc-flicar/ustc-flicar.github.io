@@ -1,0 +1,87 @@
+---
+layout: page-fullwidth-1
+show_meta: false
+title: "Calibration"
+header: no
+permalink: "/datasets/calibdata/"
+breadcrumb: true
+---
+
+<td>
+ <table>
+ <thead>
+	<tr>
+      <th><font size="4">Rosbag</font></th>
+	</tr >
+  </thead>
+	<tr>
+        <td width="90%">
+            <font size="4">
+                    <b>Size:</b> 101.3 GB<br>
+                    <br>
+                    <b>Info:</b><br>
+                    <img src="/data_image/calibration/hf001_bag_info.png" width='60%'/><br>
+                    <br>
+                    <b><a href="https://rec.ustc.edu.cn/share/99456b40-9097-11ed-8ca4-1be86670d7a7"><font size="4">Download</font></a></b>
+            </font>
+        </td>
+    </tr>
+</table>
+</td>
+
+<table>
+	<tr>
+	    <td width="30%">
+        <font size="3">
+            <b>Bumblebee XB3</b><br>
+            <b>Frames:</b> 2705x3<br>
+            <b>FPS:</b> 10.00 Hz<br>
+            <b>Size:</b> 15.25 GB<br>
+            <b>Resolution:</b> 1280x960<br>
+            <br>
+            <b><a href="https://rec.ustc.edu.cn/share/c0493700-214d-11ed-97d1-6bda13bf1e4c">Download</a></b>
+        </font>
+        </td>
+        <td>
+            <a href="https://rec.ustc.edu.cn/share/c0493700-214d-11ed-97d1-6bda13bf1e4c">
+                <img src="/data_image/calibration/hf002_xb3.jpg" width='100%'/>
+            </a>
+        </td>
+	</tr >
+    <tr>
+	    <td>
+        <font size="3">
+            <b>Hikvision Mono</b><br>
+            <b>Frames:</b> 4977<br>
+            <b>FPS:</b> 20.00 Hz<br>
+            <b>Size:</b> 6.45 GB<br>
+            <b>Resolution:</b> 1440x1080<br>
+            <br>
+            <b><a href="https://rec.ustc.edu.cn/share/7a412e40-214b-11ed-a3eb-4d1f9299897b">Download</a></b>
+        </font>
+        </td>
+        <td>
+            <a href="https://rec.ustc.edu.cn/share/7a412e40-214b-11ed-a3eb-4d1f9299897b">
+                <img src="/data_image/calibration/hf002_hik_mono.png" width='35%'/>
+            </a>
+        </td>
+	</tr >
+	<tr>
+	    <td>
+        <font size="3">
+            <b>Bumblebee XB2</b><br>
+            <b>Frames:</b> 3823x2<br>
+            <b>FPS:</b> 12.00 Hz<br>
+            <b>Size:</b> 6.52 GB<br>
+            <b>Resolution:</b> 1024x768<br>
+            <br>
+            <b><a href="https://rec.ustc.edu.cn/share/77f70410-214d-11ed-9b7d-a57190b67d09">Download</a></b>
+        </font>
+        </td>
+        <td>
+            <a href="https://rec.ustc.edu.cn/share/77f70410-214d-11ed-9b7d-a57190b67d09">
+                <img src="/data_image/calibration/hf002_xb2.png" width='70%'/>
+            </a>
+        </td>
+	</tr >
+</table>

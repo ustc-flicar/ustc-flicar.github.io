@@ -1,10 +1,17 @@
 ---
 layout: page-fullwidth
 show_meta: false
+title: "Acquisition System"
 header:
    image_fullwidth  : "ac_background.png"
 permalink           : "/system/"
 ---
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
 ## Overview
 
@@ -25,7 +32,6 @@ Bucket Truck is a truck equipped with an extendable, hydraulic boom carrying a l
 
 According to the official website of <a href="https://versalift.com/">Versalift Company</a>, "Bucket trucks are incredibly important to the industries that use them. Because so much of the power grid is connected through overhead means, and it must be managed and maintained, aerial lifts are essential to both the Power Distribution and Power Transmission Industries. Nearly every home and business in the United States is connected to the power grid, and so bucket trucks can be found throughout big cities and small towns, in suburban communities and in business districts. And they are also widely used in Telecommunications, Tree Care, Sign and Lighting Industries etc."<br> 
 
-Our bucket Truck is produce by <a href="https://www.xcmg.com/en-ap/">XCMG Company</a>, the model is <a href="https://zj.lmjx.net/gaokongzuoyeche/xcmg/xgs5143jgkz6/param/">XCMG-XGS5143JGKZ</a>. <br> 
 The hydraulic arm of our bucket truck is produced by <a href="https://versalift.com/">Versalift Company</a>, the model is <a href="https://versalift.com/bucket-truck/vst-36-i/">VST-36-I</a>.
 
 <table><tr>
@@ -33,7 +39,7 @@ The hydraulic arm of our bucket truck is produced by <a href="https://versalift.
 </tr></table>
 <a name="fig-hardware"></a>
 
-<p style="text-align: center;">Fig 2. Some basic parameters of the Bucket Truck. <br> You can get more information form: ①<a href="https://zj.lmjx.net/gaokongzuoyeche/xcmg/xgs5143jgkz6/param/">XCMG-XGS5143JGKZ</a>. ② <a href="https://versalift.com/bucket-truck/vst-36-i/">VST-36-I</a>. ③ <a href="https://versalift.com/wp-content/uploads/2017/05/VST_36_404752-I_Final.pdf">Spec Sheet</a></p>.
+<p style="text-align: center;">Some basic parameters of the Bucket Truck. ① <a href="https://versalift.com/bucket-truck/vst-36-i/">VST-36-I</a>. ② <a href="https://versalift.com/wp-content/uploads/2017/05/VST_36_404752-I_Final.pdf">Spec Sheet</a></p>.
 
 ## MultiSensors Platform
 

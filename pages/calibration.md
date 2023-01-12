@@ -7,6 +7,12 @@ header:
    image_fullwidth: "biaoding.jpg"
 permalink: "/calibration/"
 ---
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
 ## Time Synchronization
 <table><tr>
@@ -30,14 +36,14 @@ This part is about how we get IMU's gyroscope and accelerometer noise model para
 it is necessary to add an error term into the motion model
 to correct the IMU raw data based on IMU noise model.
 
-<td><img src="../images/IMU_neican_list.png" width="55%"/></td>
+<td><img src="../images/IMU_neican_list.png" width="55%"/></td><br>
 
-**Take the calibration of Xsens MTi-G-710 as an example:**
+<font color="blue" size="5">Calibration Data of IMU is available here:</font>
 
 **1. Record Data**
 <table><tr>
-<td width="40%"><img src="../images/IMU_neican_calib.png" alt="IMU calib" width="50%"/></td>
-<td width="60%">Place the IMU stationary on a stable platform for about 4hours and record the data of IMU in a rosbag.<br><br><br>Downlaod the rosbag file here:<br> <a href="https://rec.ustc.edu.cn/share/11af0a00-d284-11ec-b08d-51a354217a0f">https://rec.ustc.edu.cn/share/11af0a00-d284-11ec-b08d-51a354217a0f</a> <br>
+<td width="50%"><img src="../images/IMU_neican_calib.png" alt="IMU calib" width="60%"/></td>
+<td width="50%">Place the IMU stationary on a stable platform for about 4hours and record the data of IMU in a rosbag.<br><br><br>Downlaod the rosbag file here:<br> <a href="https://rec.ustc.edu.cn/share/11af0a00-d284-11ec-b08d-51a354217a0f">https://rec.ustc.edu.cn/share/11af0a00-d284-11ec-b08d-51a354217a0f</a> <br>
 <br>Downlaod the .mat data here:<br> <a href="https://rec.ustc.edu.cn/share/49f8f610-d28b-11ec-8fe1-07b3e2f7cce1">https://rec.ustc.edu.cn/share/49f8f610-d28b-11ec-8fe1-07b3e2f7cce1</a>
 </td>
 </tr></table>
@@ -52,6 +58,7 @@ using IMU data for camera-IMU extrinsic calibration or
 visual-inertial odometry.
 
 ## Cameras
+
 In order to make full use of the metric information of 2D
 images for 3D tasks, we calibrate the internal parameters
 of each camera and the external parameters between stereo
@@ -73,6 +80,8 @@ Hikvision_2 <br>
     <img src="../images/mono_calib_matlab.png" alt="Hardware Setup" width="70%"/>
 </p>
 
+**The size of the calibration plate in the picture is 10 x 7, 80mm x 80mm**
+
 ### Stereo Cameras
 
 <a href="https://github.com/yzrobot/bumblebee_xb3/wiki/Stereo-vision-bumblebee-xb3-by-anshulpaigwar">Bumblebee_xb3 link</a>
@@ -82,7 +91,7 @@ Hikvision_2 <br>
     <img src="../images/stereo_calib_matlab.png" alt="Hardware Setup" width="70%"/>
 </p>
 
-The results Camera parameters are provided in OpenCV format. To convert MATLAB results to OpenCV format, you need to transpose the projection and rotation matrices. See this link for details.<br>
+The results Camera parameters are provided in OpenCV format. To convert MATLAB results to OpenCV format, you need to transpose the projection and rotation matrices. See this <a href="https://stackoverflow.com/questions/46651936/convert-between-matlab-stereoparameters-and-opencv-stereorectify-stereo-calibrat/50925828#50925828">link</a> for details.<br>
 The camera parameters are notated as:<br>
 <p align="left">
     <img src="../images/camera_param.png" alt="Hardware Setup" width="25%"/>
@@ -106,6 +115,13 @@ monocular cameras, Tx = Ty = 0. The average calibration
 error of monocular cameras is about 0.08 pixel and average
 calibration error of stereo cameras is about 0.1 pixel.
 
+<font color="blue" size="5">Calibration Data of Cameras is available here:</font>
+
+<table>
+    <tr>
+        <p align="left"><img src="../images/camera_calib_data.png" alt="" width="100%"/></p>
+    </tr>
+</table>
 
 ## Camera-IMU
 The fusion of visual and inertial sensors will greatly improve
@@ -150,10 +166,26 @@ the reprojection error is within 1.0 pixel. For reprojection
 error, the mean is 0.352 pixel, the median is 0.321 pixel, and
 the standard deviation is 0.197 pixel.
 
+<font color="blue" size="5">Calibration Data of Camera-IMU is available here:</font>
+
+<table>
+    <tr>
+        <p align="left"><img src="../images/camera_imu_pose.png" alt="" width="100%"/></p>
+    </tr>
+</table>
+
 ## LiDAR-IMU
 <table>
     <tr>
         <p align="left"><img src="../images/lidar_imu.png" alt="" width="100%"/></p>
+    </tr>
+</table>
+
+<font color="blue" size="5">Calibration Data of LiDAR-IMU is available here:</font>
+
+<table>
+    <tr>
+        <p align="left"><img src="../images/lidar_imu_pose.png" alt="" width="100%"/></p>
     </tr>
 </table>
 

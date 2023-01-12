@@ -7,6 +7,13 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/sensors/"
 ---
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## Overview
 
 The sensor setup is illustrated in [Fig. 1](#fig-harware). The corresponding ROS topics are reported in [Tab. 1](#tab-sensor-and-topic).

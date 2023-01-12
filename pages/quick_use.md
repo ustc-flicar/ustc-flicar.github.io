@@ -2,42 +2,65 @@
 layout: page-fullwidth
 title: "Quick Use"
 subheadline: "USTC FLICAR Dataset"
-teaser: "We have experimented with some state-of-the-art methods on our dataset.</br> If you are seeking to do the same, please check out the following to get the work done quickly."
+teaser: "We have experimented with some state-of-the-art methods on our dataset. And some convenient and useful tools and SDK are provided for using the dataset.</br> If you are seeking to do the same, please check out the following to get the work done quickly."
 permalink: "/quick_use/"
 header: no
 ---
+<div class="panel radius" markdown="1">
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
 ### VINS-Mono / VINS-Fusion
 
-<a href="https://github.com/ustc-robot/ustcflyingcar-VINS-Mono">https://github.com/ustc-robot/ustcflyingcar-VINS-Mono</a><br>
+<font color="red">Note:</font> When we collect data, we start the sensors in order. Before starting a sensor, program need to check whether the previous sensor is working properly. So at the beginning of the rosbag, not all sensors have finished starting. When using a sensor fusion algorithm (such as camera-IMU), you can play rosbag for a period of time (about 10s), and then start the algorithm after all the sensors are started to prevent initialization errors.
+
+**VINS-Mono for USTC FLICAR:**
+<a href="https://github.com/ustc-flicar/ustcflicar-VINS-Mono">https://github.com/ustc-flicar/ustcflicar-VINS-Mono</a><br>
+**Credit:** Forked from <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono">https://github.com/HKUST-Aerial-Robotics/VINS-Mono</a>
+
+**VINS-Fusion for USTC FLICAR:**
+<a href="https://github.com/ustc-flicar/ustcflicar-VINS-Fusion">https://github.com/ustc-flicar/ustcflicar-VINS-Fusion</a><br>
+**Credit:** Forked from <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion">https://github.com/HKUST-Aerial-Robotics/VINS-Fusion</a>
 <p align="center">
-    <img src="../data_image/vins-mono-hf001.png" width="60%"/>
+    <img src="../data_image/vins-mono-hf001.png" width="100%"/>
 </p>
+<p style="text-align: center;">Left:VINS-Mono with Hikvision1 data and Xsens MTi-G-710 data from HF003 sequence<br>Right: VINS-Fusion with Bumblebee-xb3-Left/Right data and Xsens MTi-G-710 data from HF003 sequence</p>
 
 ### ORB-SLAM3
+
+<font color="red">Note:</font>We found that different versions of ORB SLAM3 codes have different configuration requirements and operating effects in different system environments. We provide two versions of ORB_SLAM3 codes that adapted to our experimental environment (Ubuntu 18.04, ROS melodic).
+
+**ORB-SLAM3 for USTC FLICAR (IMU):**
+<a href="https://github.com/ustc-flicar/ustcflicar-ORB-SLAM3-IMU">https://github.com/ustc-flicar/ustcflicar-ORB-SLAM3-IMU</a><br>
+**Credit:** Forked from <a href="https://github.com/UZ-SLAMLab/ORB_SLAM3">https://github.com/UZ-SLAMLab/ORB_SLAM3</a><br>
+<p align="center">
+    <img src="../data_image/orb_slam3.png" width="100%"/>
+</p>
 
 ### A-LOAM
 
 <p align="center">
     <img src="../data_image/hdl-aloam-1-hf001.png" width="100%"/>
 </p>
-<p style="text-align: center;">Fig 1. A-LOAM with Velodyne HDL32E data from HF001 sequence</p>
+<p style="text-align: center;">A-LOAM with horizontal Velodyne HDL-32E data from HF003 sequence</p>
 
 <p align="center">
     <img src="../data_image/hdl-aloam-2-hf001.png" width="100%"/>
 </p>
-<p style="text-align: center;">Fig 2. A-LOAM with Velodyne VLP32C data from HF001 sequence</p>
+<p style="text-align: center;">A-LOAM with vertical Velodyne VLP-32C data from HF003 sequence</p>
 
 ### LeGO-LOAM
 
 <p align="center">
     <img src="../data_image/hdl-legoloam-1-hf001.png" width="100%"/>
 </p>
-<p style="text-align: center;">Fig 1. LeGO-LOAM with Velodyne HDL32E data from HF001 sequence</p>
+<p style="text-align: center;">LeGO-LOAM with horizontal Velodyne HDL-32E data from HF003 sequence</p>
 <p align="center">
     <img src="../data_image/hdl-legoloam-2-hf001.png" width="100%"/>
 </p>
-<p style="text-align: center;">Fig 2. LeGO-LOAM with Velodyne VLP32C data from HF001 sequence</p>
+<p style="text-align: center;">LeGO-LOAM with vertical Velodyne VLP-32C data from HF003 sequence</p>
 
 ### LIO-SAM
 <a href="https://github.com/ustc-robot/ustcflyingcar-LIO-SAM">https://github.com/ustc-robot/ustcflyingcar-LIO-SAM</a><br>
@@ -48,88 +71,23 @@ header: no
 ### FAST-LIO
 <a href="https://github.com/ustc-robot/ustcflyingcar-FAST-LIO">https://github.com/ustc-robot/ustcflyingcar-FAST-LIO</a><br>
 <p align="center">
-    <img src="../data_image/Fast-lio-velo-hf001.png" width="60%"/>
+    <img src="../data_image/FAST-LIO.png" width="100%"/>
 </p>
-<p style="text-align: center;">Fig 1. FAST-LIO with Velodyne HDL32E data and Xsens MTi-G-710 data from HF001 sequence </p>
-<p align="center">
-    <img src="../data_image/Fast-lio-avia-hf001.png" width="60%"/>
-</p>
-<p style="text-align: center;">Fig 2. FAST-LIO with LiVOX Avia(Lidar and imu) data from HF001 sequence</p>
+<p style="text-align: center;">Left:FAST-LIO with Velodyne HDL32E data and Xsens MTi-G-710 data from HF003 sequence<br>Right: FAST-LIO with LiVOX Avia(Lidar and imu) data from HF003 sequence </p>
+
 
 
 ### Evaluation:EVO
 <img src="../data_image/evo/evo1.png" width="100%"/>
 <img src="../data_image/evo/evo3.png" width="100%"/>
-<p style="text-align: center;">Fig 1. Overview</p>
+<p style="text-align: center;">Overview</p>
 
-<table>
- <td width="50%">
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/vins_mono1.png" /></td>
-	</tr>
- </table>
-</td>
-<td>
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/vins_mono2.png" /></td>
-	</tr>
- </table>
-</td>
-</table>
-<p style="text-align: center;">Fig 2. Vins-mono</p>
+### IMU Utils
 
-<table>
- <td width="50%">
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/VLP-aloam1.png" /></td>
-	</tr>
- </table>
-</td>
-<td>
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/VLP-aloam2.png" /></td>
-	</tr>
- </table>
-</td>
-</table>
-<p style="text-align: center;">Fig 3. A-LOAM (VLP32)</p>
+### Kalibr
 
-<table>
- <td width="50%">
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/lio-sam1.png" /></td>
-	</tr>
- </table>
-</td>
-<td>
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/lio-sam2.png" /></td>
-	</tr>
- </table>
-</td>
-</table>
-<p style="text-align: center;">Fig 5. LIO-SAM</p>
+### Velo2Cam
 
-<table>
- <td width="50%">
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/fast_lio1.png" /></td>
-	</tr>
- </table>
-</td>
-<td>
- <table>
-	<tr>
-      <td rowspan="5"><img src="../data_image/evo/fast_lio2.png" /></td>
-	</tr>
- </table>
-</td>
-</table>
-<p style="text-align: center;">Fig 6. FAST-LIO Velo</p>
+### Color_pt
+
+### kitti2bag/bag2kitti

@@ -20,7 +20,7 @@ widget1:
   text: ''
 widget2:
   title: "Acquisition System"
-  url: '/getting-started/index.html'
+  url: '/system/index.html'
   image: acquisition_index.png
   text: ''
 widget3:
