@@ -75,8 +75,8 @@
   side: left
 
 
-- title: "Search"
-  url: "/search/"
+- title: "Privacy"
+  url: "/privacy/"
   side: right
 
 - title: "Author"
