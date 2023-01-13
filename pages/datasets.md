@@ -84,12 +84,12 @@ permalink: "/datasets/"
 
 <div class="row listing listing-link listing-odd">
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF005">
+         <a href="./hf005">
             <img id="thumb-1" src="../data_image/aerial_05/1.png"/>
          </a>
       </div>
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF005">
+         <a href="./hf005">
             <h4>HF005</h4>
          </a>
          Time: 2022/06/08-17:20 GMT +8<br/>
@@ -101,12 +101,12 @@ permalink: "/datasets/"
 
 <div class="row listing listing-link listing-odd">
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF006">
+         <a href="./hf006">
             <img id="thumb-1" src="../data_image/aerial_06/1.png"/>
          </a>
       </div>
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF006">
+         <a href="./hf006">
             <h4>HF006</h4>
          </a>
          Time: 2022/06/08-18:13 GMT +8<br/>
@@ -136,12 +136,12 @@ permalink: "/datasets/"
 
 <div class="row listing listing-link listing-odd">
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF008">
+         <a href="./hf008">
             <img id="thumb-1" src="../data_image/aerial_08/1.png"/>
          </a>
       </div>
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF008">
+         <a href="./hf008">
             <h4>HF008</h4>
          </a>
          Time: 2022/06/08-21:20 GMT +8<br/>
@@ -154,12 +154,12 @@ permalink: "/datasets/"
 
 <div class="row listing listing-link listing-odd">
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF009">
+         <a href="./hf009">
             <img id="thumb-1" src="../data_image/aerial_09/1.png"/>
          </a>
       </div>
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF009">
+         <a href="./hf009">
             <h4>HF009</h4>
          </a>
          Time: 2022/06/08-21:27 GMT +8<br/>
@@ -177,7 +177,7 @@ permalink: "/datasets/"
          </a>
       </div>
       <div class="large-6 medium-6 small-12 columns">
-         <a href="./HF009">
+         <a href="./calibdata">
             <h4>Calibration</h4>
          </a>
          <span class="icon-price-tag pr10">indoor</span>

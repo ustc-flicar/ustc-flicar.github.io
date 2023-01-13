@@ -71,14 +71,16 @@ header: no
 <p style="text-align: center;">LeGO-LOAM with vertical Velodyne VLP-32C data from HF003 sequence</p>
 
 ### LIO-SAM
-<a href="https://github.com/ustc-robot/ustcflyingcar-LIO-SAM">https://github.com/ustc-robot/ustcflyingcar-LIO-SAM</a><br>
+**LIO-SAM for USTC FLICAR:**
+<a href="https://github.com/ustc-flicar/ustcflicar-LIO-SAM">https://github.com/ustc-flicar/ustcflicar-LIO-SAM</a><br>
 **Credit:** Forked from <a href="https://github.com/TixiaoShan/LIO-SAM">https://github.com/TixiaoShan/LIO-SAM</a><br>
 <p align="center">
-    <img src="../data_image/LIO-SAM-hf001.png" width="60%"/>
+    <img src="../data_image/LIO_SAM.png" width="100%"/>
 </p>
 
 ### FAST-LIO
-<a href="https://github.com/ustc-robot/ustcflyingcar-FAST-LIO">https://github.com/ustc-robot/ustcflyingcar-FAST-LIO</a><br>
+**FAST-LIO for USTC FLICAR:**
+<a href="https://github.com/ustc-flicar/ustcflicar-FAST-LIO">https://github.com/ustc-flicar/ustcflicar-FAST-LIO</a><br>
 **Credit:** Forked from <a href="https://github.com/hku-mars/FAST_LIO">https://github.com/hku-mars/FAST_LIO</a><br>
 <p align="center">
     <img src="../data_image/FAST-LIO.png" width="100%"/>
