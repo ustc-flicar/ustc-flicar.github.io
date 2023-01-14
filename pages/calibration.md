@@ -241,3 +241,9 @@ as followed:
 </table>
 
 <font color="blue" size="5">Calibration Data of LiDAR-IMU is available here:<a href="https://rec.ustc.edu.cn/share/4ffaaac0-9295-11ed-af29-194f1dafd586">Download</a></font>
+
+<table>
+    <tr>
+        <p align="left"><img src="../images/velo2cam_show.png" alt="" width="100%"/></p>
+    </tr>
+</table>
