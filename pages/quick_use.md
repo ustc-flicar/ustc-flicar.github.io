@@ -59,7 +59,7 @@ header: no
 
 ### LeGO-LOAM
 **LeGO-LOAM for USTC FLICAR:**
-<a href="https://github.com/ustc-flicar/ustcflicar-A-LOAM">https://github.com/ustc-flicar/ustcflicar-A-LOAM</a><br>
+<a href="https://github.com/ustc-flicar/ustcflicar-LeGO-LOAM">https://github.com/ustc-flicar/ustcflicar-LeGO-LOAM</a><br>
 **Credit:** Forked from <a href="https://github.com/RobustFieldAutonomyLab/LeGO-LOAM">https://github.com/RobustFieldAutonomyLab/LeGO-LOAM</a><br>
 <p align="center">
     <img src="../data_image/hdl-legoloam-1-hf001.png" width="100%"/>
