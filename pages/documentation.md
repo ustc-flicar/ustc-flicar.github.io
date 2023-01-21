@@ -7,8 +7,8 @@ permalink: "/documentation/"
 header: no
 ---
 
-<object data="../pdf/ustcflicar_zimingwang.pdf" type="application/pdf" width="100%" height="800px">
-    <embed src="../pdf/ustcflicar_zimingwang.pdf.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../pdf/main.pdf">Download PDF</a>.</p>
+<object data="../pdf/USTC_FLICAR.pdf" type="application/pdf" width="100%" height="800px">
+    <embed src="../pdf/USTC_FLICAR.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../pdf/USTC_FLICAR.pdf">Download PDF</a>.</p>
     </embed>
 </object>
