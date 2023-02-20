@@ -17,7 +17,7 @@ slogan: 'USTC FLICAR: Multisensor Fusion Dataset of Lidar-Inertial-Camera for He
 description: '» USTC FLICAR: Multisensor Fusion Dataset of Lidar-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robot'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="http://home.ustc.edu.cn/~wm13039278866/index_EN.html">Ziming Wang</a> @IMR Lab, USTC. Website based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by <a href="http://home.ustc.edu.cn/~wm13039278866/index_EN.html">Ziming Wang</a> @USTC. Website based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
