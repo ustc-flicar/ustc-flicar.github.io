@@ -74,6 +74,9 @@
   url: "/quick_use/"
   side: left
 
+- title: "Visitors"
+  url: "/visit/"
+  side: right
 
 - title: "Privacy"
   url: "/privacy/"
