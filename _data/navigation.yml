@@ -74,8 +74,8 @@
   url: "/quick_use/"
   side: left
 
-- title: "Visitors"
-  url: "/visit/"
+- title: "Citation"
+  url: "/citation/"
   side: right
 
 - title: "Privacy"
