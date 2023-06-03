@@ -6,6 +6,9 @@
   url: "/datasets/"
   side: left
 
+- title: Semantic
+  url: "/Semantic/"
+  side: left
 
 - title:  Acquisition System
   url: "/system/"
@@ -74,9 +77,9 @@
   url: "/quick_use/"
   side: left
 
-- title: "Citation"
-  url: "/citation/"
-  side: right
+#- title: "Citation"
+#  url: "/citation/"
+#  side: right
 
 - title: "Privacy"
   url: "/privacy/"
@@ -85,3 +88,7 @@
 - title: "Author"
   url: "/contact/"
   side: right
+
+#- title: "LINK"
+#  url: "/link/"
+#  side: right
