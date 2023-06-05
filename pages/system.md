@@ -145,3 +145,5 @@ R. The time t<sub>R</sub> is referenced to the internal clock of the
 tracking system.
 
 <img src="../images/acqusition_system_all.jpg" alt="Hardware Setup" width="70%"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zeu67QTNgnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

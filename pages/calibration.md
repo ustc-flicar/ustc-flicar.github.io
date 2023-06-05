@@ -14,6 +14,23 @@ permalink: "/calibration/"
 {:toc}
 </div>
 
+## Accurate Modeling
+<td><img src="../images/Accurate_model.png" width="55%"/></td><br>
+We utilize the <a href='https://www.photoneo.com/products/phoxi-scan-l/'>Photoneo PhoXi 3D Scanner L</a> for precise modeling of the data acquisition multisensor platform. Its technical specifications are as follows:<br>
+• Scanner Type: structured light scanner<br>
+• Calibration Accuracy (1 σ): 0.200 mm<br>
+• Temporal Noise (1 σ): 0.190 mm<br>
+• Resolution: Up to 3.2 million 3D points<br>
+• Scanning Range: 870 - 2150 mm<br>
+• Optimal Scanning distance: 1239 mm<br>
+• Scanning Area (sweet spot): 1082 x 772 mm<br>
+• Point-to-Point Distance: 0.524 mm<br>
+• Scanning Time: 250 - 2750 ms<br>
+These specifications exemplify the Photoneo PhoXi 3D Scanner L’s capabilities, allowing for precise and detailed modeling for our multi-sensor platform.<br>
+Multiple-angle modeling pointcloud of data acquisition platform with the PhoXi 3D scanner, SolidWorks assembly models, and drawings are provided along with the dataset. Before users run the calibration program using the USTC FLICAR dataset, we recommend referring to the structured light scanning modeling data and SolidWorks design models to obtain reliable initial calibration values.
+
+<font color="blue" size="5">Calibration Data of Photoneo scan and SolidWorks Model is available here:<a href="https://rec.ustc.edu.cn/share/82d29700-01d3-11ee-b53a-e1e918ec8e37">  Download</a></font> <br>
+
 ## Time Synchronization
 <table><tr>
 
@@ -212,6 +229,12 @@ rom the vertical Lidar Velodyne VLP32C </td>
         <p align="left"><img src="../images/multi_lidar.png" alt="" width="32%"/></p>
     </tr>
 </table>
+
+<table><tr>
+<td width="70%"><img src="../images/multilidar_show.png" alt="Multi LiDAR calib" width="80%"/></td>
+<td width="30%"> <br><br><br><font color="blue" size="5">Calibration Data of Multi LiDAR is available here:<a href="https://rec.ustc.edu.cn/share/7ae22e10-020d-11ee-acd3-a7a8bde1ab07">  Download</a></font> <br>
+</td>
+</tr></table>
 
 ## LiDAR-Camera
 Image data has rich and dense object information, but
