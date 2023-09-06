@@ -8,13 +8,27 @@ header: no
 ---
 Citation：
 ```
-@misc{wang2023ustc,
-      title={USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots}, 
-      author={Ziming Wang and Yujiang Liu and Yifan Duan and Xingchen Li and Xinran Zhang and Jianmin Ji and Erbao Dong and Yanyong Zhang},
-      year={2023},
-      eprint={2304.01986},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+Wang Z, Liu Y, Duan Y, et al. USTC FLICAR: A sensors fusion dataset of LiDAR-inertial-camera for heavy-duty autonomous aerial work robots. The International Journal of Robotics Research. 2023;0(0). doi:10.1177/02783649231195650
+```
+```
+@article{doi:10.1177/02783649231195650,
+author = {Ziming Wang and Yujiang Liu and Yifan Duan and Xingchen Li and Xinran Zhang and Jianmin Ji and Erbao Dong and Yanyong Zhang},
+title ={USTC FLICAR: A sensors fusion dataset of LiDAR-inertial-camera for heavy-duty autonomous aerial work robots},
+journal = {The International Journal of Robotics Research},
+volume = {0},
+number = {0},
+pages = {02783649231195650},
+year = {0},
+doi = {10.1177/02783649231195650},
+
+URL = { 
+        https://doi.org/10.1177/02783649231195650
+    
+},
+eprint = { 
+        https://doi.org/10.1177/02783649231195650
+    
+}
 }
 ```
 <object data="../pdf/USTC_FLICAR.pdf" type="application/pdf" width="100%" height="800px">
