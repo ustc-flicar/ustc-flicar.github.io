@@ -9,13 +9,13 @@ header              : no
 ---
 
 
-<img src="../images/logo.jpg" width="15%" ><br>
+<img src="../images/WZM.jpg" width="15%" ><br>
 
 <font size="4">This is an introduction about myself. I am dedicated to robotics research with the goal of improving the quality of human life through the development of robots. I believe that effective collaboration between humans and robots can free us from tedious, physically demanding, and hazardous work, and provide vulnerable groups with greater opportunities to engage with the world. As a testament to this belief, I have created the USTC FLICAR dataset to help prepare robots for the task of aerial work. I am also currently dedicated to advancing the application of robots in challenging environments such as high-voltage power grids and mines. My approach to research centers on robot perception as a means of exploring effective modes of human-robot fusion interaction. I am particularly focused on areas such as simultaneous localization and mapping (SLAM), computer vision (CV), human-robot interaction (HRI), and augmented/virtual/mixed reality (AR/VR/MR). In the future, I also hope to study robots that can assist the disabled and elderly. If we share similar goals, I look forward to connecting with you.</font>
 
 ### Contact me:
 <td width="750" align="left" valign="middle" class="rightone">
-    <li>Email: <a href="mailto:&#119;&#109;&#049;&#051;&#048;&#051;&#057;&#050;&#055;&#056;&#056;&#054;&#054;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#115;&#116;&#099;&#046;&#101;&#100;&#117;&#046;&#099;&#110;">zimingwang@mail.ustc.edu.cn</a></li>
+    <li>Email: <a href="mailto:&#119;&#109;&#049;&#051;&#048;&#051;&#057;&#050;&#055;&#056;&#056;&#054;&#054;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#115;&#116;&#099;&#046;&#101;&#100;&#117;&#046;&#099;&#110;">zimingwang@connect.hku.hk; zimingwang@mail.ustc.edu.cn</a></li>
     <li>Tel.: +86 13179243157</li>
 </td>    
 
