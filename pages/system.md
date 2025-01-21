@@ -39,7 +39,7 @@ The hydraulic arm of our bucket truck is produced by <a href="https://versalift.
 </tr></table>
 <a name="fig-hardware"></a>
 
-<p style="text-align: center;">Some basic parameters of the Bucket Truck. ① <a href="https://versalift.com/bucket-truck/vst-36-i/">VST-36-I</a>. ② <a href="https://versalift.com/wp-content/uploads/2017/05/VST_36_404752-I_Final.pdf">Spec Sheet</a></p>.
+<p style="text-align: center;">Some basic parameters of the Bucket Truck. ① <a href="https://versalift.com/bucket-truck/vst-40-i/">VST-40-I</a>. ② <a href="https://versalift.com/wp-content/uploads/2017/05/VST_36_404752-I_Final.pdf">Spec Sheet</a></p>.
 
 ## MultiSensors Platform
 
