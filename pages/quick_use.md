@@ -12,6 +12,15 @@ header: no
 {:toc}
 </div>
 
+### FAST-LIO
+**FAST-LIO for USTC FLICAR:**
+<a href="https://github.com/ustc-flicar/ustcflicar-FAST-LIO">https://github.com/ustc-flicar/ustcflicar-FAST-LIO</a><br>
+**Credit:** Forked from <a href="https://github.com/hku-mars/FAST_LIO">https://github.com/hku-mars/FAST_LIO</a><br>
+<p align="center">
+    <img src="../data_image/FAST-LIO.png" width="100%"/>
+</p>
+<p style="text-align: center;">Left:FAST-LIO with Velodyne HDL32E data and Xsens MTi-G-710 data from HF003 sequence<br>Right: FAST-LIO with LiVOX Avia(Lidar and imu) data from HF003 sequence </p>
+
 ### VINS-Mono / VINS-Fusion
 
 <font color="red">Note:</font> When we collect data, we start the sensors in order. Before starting a sensor, program need to check whether the previous sensor is working properly. So at the beginning of the rosbag, not all sensors have finished starting. When using a sensor fusion algorithm (such as camera-IMU), you can play rosbag for a period of time (about 10s), and then start the algorithm after all the sensors are started to prevent initialization errors.
@@ -78,14 +87,6 @@ header: no
     <img src="../data_image/LIO_SAM.png" width="100%"/>
 </p>
 
-### FAST-LIO
-**FAST-LIO for USTC FLICAR:**
-<a href="https://github.com/ustc-flicar/ustcflicar-FAST-LIO">https://github.com/ustc-flicar/ustcflicar-FAST-LIO</a><br>
-**Credit:** Forked from <a href="https://github.com/hku-mars/FAST_LIO">https://github.com/hku-mars/FAST_LIO</a><br>
-<p align="center">
-    <img src="../data_image/FAST-LIO.png" width="100%"/>
-</p>
-<p style="text-align: center;">Left:FAST-LIO with Velodyne HDL32E data and Xsens MTi-G-710 data from HF003 sequence<br>Right: FAST-LIO with LiVOX Avia(Lidar and imu) data from HF003 sequence </p>
 
 
 

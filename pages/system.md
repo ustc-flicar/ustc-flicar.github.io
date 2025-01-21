@@ -32,7 +32,7 @@ Bucket Truck is a truck equipped with an extendable, hydraulic boom carrying a l
 
 According to the official website of <a href="https://versalift.com/">Versalift Company</a>, "Bucket trucks are incredibly important to the industries that use them. Because so much of the power grid is connected through overhead means, and it must be managed and maintained, aerial lifts are essential to both the Power Distribution and Power Transmission Industries. Nearly every home and business in the United States is connected to the power grid, and so bucket trucks can be found throughout big cities and small towns, in suburban communities and in business districts. And they are also widely used in Telecommunications, Tree Care, Sign and Lighting Industries etc."<br> 
 
-The hydraulic arm of our bucket truck is produced by <a href="https://versalift.com/">Versalift Company</a>, the model is <a href="https://versalift.com/bucket-truck/vst-36-i/">VST-36-I</a>.
+The hydraulic arm of our bucket truck is produced by <a href="https://versalift.com/">Versalift Company</a>, the model is <a href="https://versalift.com/bucket-truck/vst-40-i/">VST-40-I</a>.
 
 <table><tr>
 <td><img src="../images/hardware.jpg" border=0 width="100%"/></td>
