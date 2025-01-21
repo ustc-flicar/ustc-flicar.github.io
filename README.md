@@ -33,3 +33,5 @@ If you use some resource from this data suite, please cite it as
 **22/01/2025**: Support the SOTA LIVO System [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
 
 **01/09/2024**: The [author](https://ustc-flicar.github.io/contact/) came to the [HKU MaRS Lab](https://mars.hku.hk/) for postgraduate study under supervised by [Prof. Fu Zhang](https://scholar.google.com/citations?user=V-eYCF8AAAAJ&hl=zh-CN&oi=ao) and continued his journey in robotics and SLAM
+
+

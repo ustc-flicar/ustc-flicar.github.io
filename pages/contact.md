@@ -21,7 +21,7 @@ header              : no
 ### Contact me:
 <td width="750" align="left" valign="middle" class="rightone">
     <li>Email: <a href="mailto:&#119;&#109;&#049;&#051;&#048;&#051;&#057;&#050;&#055;&#056;&#056;&#054;&#054;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#115;&#116;&#099;&#046;&#101;&#100;&#117;&#046;&#099;&#110;">zimingwang@connect.hku.hk; zimingwang@mail.ustc.edu.cn</a></li>
-    <li>WeChat/微信:  ziming_wang2001<li> 
+    <li>WeChat/微信:  ziming_wang2001</li> 
     <li>Tel.: +86 13179243157</li>
 </td>    
 
