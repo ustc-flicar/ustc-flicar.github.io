@@ -2,6 +2,16 @@
 
 ### [Website: https://ustc-flicar.github.io/](https://ustc-flicar.github.io/)
 
+# Updates
+
+**22/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
+
+![Fast-LIVO2](images/livo2.png)
+
+**01/09/2024**: The [author](https://ustc-flicar.github.io/contact/) came to the [HKU MaRS Lab](https://mars.hku.hk/) for postgraduate study under supervised by [Prof. Fu Zhang](https://scholar.google.com/citations?user=V-eYCF8AAAAJ&hl=zh-CN&oi=ao) and continued his journey in robotics and SLAM
+
+
+
 This site presents the USTC FLICAR Dataset, collected from our research on heavy-duty autonomous aerial work robots, featuring a comprehensive set of [sensors](https://ustc-flicar.github.io/sensors/):
 
 * Four 3D LiDARs (Velodyne HDL32/VLP32; LiVOX Avia; Ouster OS0-128)
@@ -29,14 +39,6 @@ If you use some resource from this data suite, please cite it as
 }
 ```
 [[Journal](https://journals.sagepub.com/doi/abs/10.1177/02783649231195650)][[Preprint](https://arxiv.org/pdf/2304.01986)]
-
-# Updates
-
-**22/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
-
-![Fast-LIVO2](images/livo2.png)
-
-**01/09/2024**: The [author](https://ustc-flicar.github.io/contact/) came to the [HKU MaRS Lab](https://mars.hku.hk/) for postgraduate study under supervised by [Prof. Fu Zhang](https://scholar.google.com/citations?user=V-eYCF8AAAAJ&hl=zh-CN&oi=ao) and continued his journey in robotics and SLAM
 
 # Downloads
 
