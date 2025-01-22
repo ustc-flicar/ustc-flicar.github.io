@@ -1,4 +1,4 @@
-# [USTC FLICAR: A Sensors Fusion Dataset of Lidar-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots (IJRR 2023)](https://ustc-flicar.github.io/)
+# [USTC FLICAR: A Sensors Fusion Dataset of Lidar-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots (IJRR 2023)](https://journals.sagepub.com/doi/abs/10.1177/02783649231195650)
 
 ### [Website: https://ustc-flicar.github.io/](https://ustc-flicar.github.io/)
 
