@@ -13,6 +13,8 @@
 
 # Introduction
 
+![Flicar_Sence](images/flicar_changjing.png)
+
 This site presents the USTC FLICAR Dataset, collected from our research on heavy-duty autonomous aerial work robots, featuring a comprehensive set of [sensors](https://ustc-flicar.github.io/sensors/):
 
 * Four 3D LiDARs (Velodyne HDL32/VLP32; LiVOX Avia; Ouster OS0-128)
