@@ -2,15 +2,16 @@
 
 ### [Website: https://ustc-flicar.github.io/](https://ustc-flicar.github.io/)
 
-# Updates
+# 📢 Updates
 
-**22/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
+🚀 **22/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
 
 ![Fast-LIVO2](images/livo2.png)
 
-**01/09/2024**: The [author](https://ustc-flicar.github.io/contact/) came to the [HKU MaRS Lab](https://mars.hku.hk/) for postgraduate study under supervised by [Prof. Fu Zhang](https://scholar.google.com/citations?user=V-eYCF8AAAAJ&hl=zh-CN&oi=ao) and continued his journey in robotics and SLAM
+🚀 **01/09/2024**: The [author](https://ustc-flicar.github.io/contact/) came to the [HKU MaRS Lab](https://mars.hku.hk/) for postgraduate study under supervised by [Prof. Fu Zhang](https://scholar.google.com/citations?user=V-eYCF8AAAAJ&hl=zh-CN&oi=ao) and continued his journey in robotics and SLAM
 
 
+# Introduction
 
 This site presents the USTC FLICAR Dataset, collected from our research on heavy-duty autonomous aerial work robots, featuring a comprehensive set of [sensors](https://ustc-flicar.github.io/sensors/):
 
