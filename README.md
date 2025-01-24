@@ -4,7 +4,7 @@
 
 # 📢 Updates
 
-🚀 **22/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
+🚀 **23/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
 
 ![Fast-LIVO2](images/livo2.png)
 

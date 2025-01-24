@@ -46,7 +46,7 @@ homepage: true
 ### — USTC <font color="red">FLICAR</font>: A Sensors <font color="red">F</font>usion Dataset of <font color="red">L</font>idar-<font color="red">I</font>nertial-<font color="red">C</font>amera for Heavy-duty Autonomous <font color="red">A</font>erial Work <font color="red">R</font>obots
 ## 📢 Updates
 
-🚀 **22/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2) !
+🚀 **23/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2) !
 
 <img src="images/livo2.png" alt="Fast-LIVO2" width="80%">
 
