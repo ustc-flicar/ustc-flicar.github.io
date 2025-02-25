@@ -45,6 +45,15 @@ homepage: true
 # Welcome to USTC FLICAR Dataset!
 ### — USTC <font color="red">FLICAR</font>: A Sensors <font color="red">F</font>usion Dataset of <font color="red">L</font>idar-<font color="red">I</font>nertial-<font color="red">C</font>amera for Heavy-duty Autonomous <font color="red">A</font>erial Work <font color="red">R</font>obots
 ## 📢 Updates
+球球各位点个star🌟吧🙏
+<a href="https://github.com/ustc-flicar/ustc-flicar.github.io" title="Star me!" style="display:inline-block">
+  <img src="https://img.shields.io/github/stars/ustc-flicar/ustc-flicar.github.io.svg?style=social" alt="Star me!" style="width: 75px; height: 20px;">
+</a>
+
+Do you like the project? Please star🌟 us on GitHub to support the project! Thank you very much for your support!
+<a href="https://github.com/ustc-flicar/ustc-flicar.github.io" title="Star me!" style="display:inline-block">
+  <img src="https://img.shields.io/github/stars/ustc-flicar/ustc-flicar.github.io.svg?style=social" alt="Star me!" style="width: 75px; height: 20px;">
+</a>
 
 🚀 **23/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2) !
 
